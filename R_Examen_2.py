@@ -120,5 +120,4 @@ elif eleccion == 2:
 # Imprimir los resultados
 print(f"Método utilizado: {metodo}")
 print("Solución del sistema: ")
-for i, x in enumerate(X, start=1):
-    print(f"x{i} = {x}")
+print(X)
